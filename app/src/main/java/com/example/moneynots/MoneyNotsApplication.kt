@@ -1,5 +1,5 @@
-package com.example.moneynots
+package com.example.moneyx
 
 import android.app.Application
 
-class MoneyNotsApplication : Application()
+class MoneyxApplication : Application()
